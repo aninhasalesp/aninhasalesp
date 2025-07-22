@@ -39,21 +39,26 @@
 ---
 
 
-### 👋 Let's Connect!
+
+<h3>👋 Let's Connect!</h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/aninhasalesp/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-  <a href="https://github.com/aninhasalesp">
-	<img src="https://img.shields.io/badge/-aninhasalesp-black?style=flat&logo=Github&logoColor=white" />
+  <a href="https://www.linkedin.com/in/aninhasalesp/" title="LinkedIn" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/aninhasalesp" title="GitHub" target="_blank">
+    <img src="https://img.shields.io/badge/-aninhasalesp-181717?style=flat-square&logo=Github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://aninhasalesp.github.io/meublog" title="Blog pessoal" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Blog%20Pessoal-6f42c1?style=flat-square&logo=write&logoColor=white" alt="Blog pessoal" />
+  </a>
+  <a href="mailto:ana@gonzaga.dev">
+	<img src="https://img.shields.io/badge/-ana@gonzaga.dev-c14438?style=flat&logo=Gmail&logoColor=white" />
 </a>
-  <!-- <a href="https://t.me/aninhasalesp">
-	<img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white" /> -->
-</a>
+  <a href="https://t.me/aninhasalesp" title="Telegram" target="_blank">
+    <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white" alt="Telegram"/>
+  </a>
 </p>
 
-- 📝 [Blog pessoal](https://aninhasalesp.github.io/meublog)
-
----
 
 ### <p align="center"> Obrigada por estar aqui 🌷 </p>
