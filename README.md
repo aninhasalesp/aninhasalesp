@@ -17,7 +17,7 @@
 - 🎓 Bachelor's degree in Information Systems
 - 💓 Mom to Maria Eduarda
 - 🌍 Always learning and experimenting
-- 🎨 I draw, paint, write poetry, and craft — always with more enthusiasm than skill. I just love expressing myself through art in all its forms.
+- 🎨 I draw, paint, write poetry, and craft, always with more enthusiasm than skill. I just love expressing myself through art in all its forms.
 - 📝 I also write on my blog: [aninhasalesp.github.io/meublog](https://aninhasalesp.github.io/meublog)
 - ✨ In everything I do, I try to leave a little piece of myself
 
@@ -53,8 +53,8 @@
   <a href="https://aninhasalesp.github.io/meublog" title="Blog pessoal" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Blog%20Pessoal-6f42c1?style=flat-square&logo=write&logoColor=white" alt="Blog pessoal" />
   </a>
-  <a href="mailto:ana@gonzaga.dev">
-	<img src="https://img.shields.io/badge/-ana@gonzaga.dev-c14438?style=flat&logo=Gmail&logoColor=white" />
+  <a href="mailto:me@anapaula.org">
+	<img src="https://img.shields.io/badge/-me@anapaula.org-c14438?style=flat&logo=Gmail&logoColor=white" />
 </a>
   <a href="https://t.me/aninhasalesp" title="Telegram" target="_blank">
     <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white" alt="Telegram"/>
