@@ -3,20 +3,21 @@
 <p align="center"><strong>Software Developer</strong></p>
 
 <p align="center">
-  I believe in technology as a tool for social transformation. <br>
-  I'm actively involved in Python communities, especially <strong>PyLadies Floripa</strong> and <strong>PyLadies Brasil</strong>. <br>
-  The exchange between people has a real impact, which is why being involved with the community is so important to me. <br>
+ I believe technology is a tool for social transformation.<br>
+  I'm actively involved in Python communities, especially <strong>PyLadies Floripa</strong> and <strong>PyLadies Brasil</strong>.<br>
+  The exchange between people truly makes an impact, which is why community involvement means so much to me.<br>
   This way, I can help promote diversity and support female leadership in the tech industry. 🤍🫂
+</p>
 </p>
 
 ---
 
 ### About Me
 
-- 🎓 Bachelor's in Information Systems
-- 💓 Maria Eduarda’s Mom
-- 🌍 I'm always learning and experimenting
-- 🎨 I draw, paint, write poetry, and create crafts, always with more enthusiasm than skill. I just love expressing myself through art in all its forms
+- 🎓 Bachelor's degree in Information Systems
+- 💓 Mom to Maria Eduarda
+- 🌍 Always learning and experimenting
+- 🎨 I draw, paint, write poetry, and craft — always with more enthusiasm than skill. I just love expressing myself through art in all its forms.
 - 📝 I also write on my blog: [aninhasalesp.github.io/meublog](https://aninhasalesp.github.io/meublog)
 - ✨ In everything I do, I try to leave a little piece of myself
 
@@ -61,4 +62,4 @@
 </p>
 
 
-### <p align="center"> Obrigada por estar aqui 🌷 </p>
+### <p align="center"> Thank you for being here 🌷 </p>
