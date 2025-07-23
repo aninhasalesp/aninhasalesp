@@ -18,7 +18,7 @@
 - 💓 Mom to Maria Eduarda
 - 🌍 Always learning and experimenting
 - 🎨 I draw, paint, write poetry, and craft, always with more enthusiasm than skill. I just love expressing myself through art in all its forms.
-- 📝 I also write on my blog: [aninhasalesp.github.io/meublog](https://aninhasalesp.github.io/meublog)
+- 📝 I also write on my blog: [https://anapaula.org/](https://anapaula.org/)
 - ✨ In everything I do, I try to leave a little piece of myself
 
 ---
