@@ -50,7 +50,7 @@
   <a href="https://github.com/aninhasalesp" title="GitHub" target="_blank">
     <img src="https://img.shields.io/badge/-aninhasalesp-181717?style=flat-square&logo=Github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://aninhasalesp.github.io/meublog" title="Blog pessoal" target="_blank" rel="noopener noreferrer">
+  <a href="https://anapaula.org/" title="Blog pessoal" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Blog%20Pessoal-6f42c1?style=flat-square&logo=write&logoColor=white" alt="Blog pessoal" />
   </a>
   <a href="mailto:me@anapaula.org">
